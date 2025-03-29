@@ -8,3 +8,8 @@
 	path = human2humanoid
 	url = https://github.com/kvkcon/human2humanoid.git
 	branch = main
+
+[submodule "tram_x1"]
+	path = tram_x1
+	url = https://github.com/yufu-wang/tram.git
+	branch = main
