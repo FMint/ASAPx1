@@ -9,7 +9,7 @@
 	url = https://github.com/kvkcon/human2humanoid.git
 	branch = main
 
-[submodule "tram_x1"]
-	path = tram_x1
-	url = https://github.com/yufu-wang/tram.git
+[submodule "tram"]
+	path = tram
+	url = https://github.com/FMint/tram.git
 	branch = main
